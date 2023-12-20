@@ -1,0 +1,2 @@
+template-repo-test-job:
+  script: echo "I'M TEMPLATE REPO"
